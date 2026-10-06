@@ -140,9 +140,6 @@ music-playlist-generation/
 ├── phraseMood.py                 # Natural-language mood classification
 ├── api.py                        # API-related functionality
 │
-├── organisation/                 # Project documentation
-├── SUIVI.md                      # Project tracking
-│
 └── README.md
 ```
 
